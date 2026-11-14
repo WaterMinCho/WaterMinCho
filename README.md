@@ -34,12 +34,13 @@ React · TypeScript · TanStack Query · Vite
 | 서비스 | 맡았던 개발 |
 | --- | --- |
 | [마펫쯔](https://mpz.kr) | 유기동물 입양 플랫폼의 인증 통합, DB 분리 이관, 통합 백오피스 |
-| [강아지학교](https://school.mpz.kr) | 반려생활 교육·커머스의 영상 강의, PayApp 결제, 상담 채팅과 배포 |
+| 강아지학교 | 반려생활 교육·커머스의 영상 강의, PayApp 결제, 상담 채팅과 배포 |
 | Rround | 커머스 앱의 웹뷰, Turborepo 모노레포, AWS·Jenkins 배포 환경 |
 
 ## 사용 기술
 
-**화면** · React, React Native, Next.js, TypeScript, TanStack Query  
+**화면** · React, React Native, Next.js, TypeScript, TanStack Query
+
 **서버·운영** · Python, Django, Supabase, AWS, nginx
 
 [study-start]: https://github.com/WaterMinCho/programming-study/blob/main/docs/LEARNER_START.md
