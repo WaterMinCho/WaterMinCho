@@ -2,7 +2,7 @@
   <title id="title">Minsu Jo</title>
   <desc id="desc">이름 옆에 화면과 데이터를 연결한 도형을 배치한 프로필 배너</desc>
   <rect width="1200" height="240" rx="16" fill="#101D27"/>
-  <path d="M0 239H1200" stroke="#294553"/>
+  <path d="M16 239H1184" stroke="#294553"/>
   <text x="48" y="145" fill="#DCEAF1" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="-4">Minsu Jo</text>
   <path d="M52 176H115" stroke="#70C8B8" stroke-width="6" stroke-linecap="round"/>
   <g fill="none" stroke-width="2">

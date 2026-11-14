@@ -3,11 +3,11 @@
   <img src="assets/profile-light.svg" alt="Minsu Jo" width="100%">
 </picture>
 
-# 프론트엔드 개발자 조민수입니다.
+# 조민수 · 프론트엔드 개발자
 
-React·React Native·Next.js로 웹과 하이브리드 앱을 개발합니다. 인증·결제부터 백엔드 연동과 배포·운영까지 맡아 왔습니다.
+React·React Native·Next.js로 웹과 하이브리드 앱을 개발해 왔습니다. 인증·결제부터 백엔드 연동과 배포·운영까지 맡았습니다.
 
-지금은 스터디에서 쓰는 **프로그래밍 학습 프로그램**을 만들고, 팀원들과 풀이 기록을 활용한 문제 추천 모델을 개발하고 있습니다.
+지금은 스터디에서 쓰는 **프로그래밍 학습 프로그램**을 만듭니다. 팀원들의 문제 추천 모델 실험에 필요한 풀이 기록과 공통 자료도 준비합니다.
 
 [기술 블로그](https://velog.io/@watermincho_96/posts) · [연락하기](mailto:whalstn8@naver.com)
 
