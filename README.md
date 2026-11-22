@@ -23,12 +23,6 @@ Python · PyQt6 · SQLite
 
 [설치와 사용법][study-start] · [프로젝트 구조][study-architecture] · [모델 개발 미션][study-models]
 
-### [도서 검색](https://github.com/WaterMinCho/cdri-books-jominsu)
-
-카카오 도서 검색 API로 검색·상세 조회·찜하기를 구현했습니다. 검색 조건별 캐싱, 무한 스크롤, 한글 입력 중 Enter 처리 코드를 확인할 수 있습니다.
-
-React · TypeScript · TanStack Query · Vite
-
 ## 서비스 개발 경험
 
 | 서비스 | 맡았던 개발 |
